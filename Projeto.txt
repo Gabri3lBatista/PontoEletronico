@@ -1,5 +1,13 @@
 Gabriel 	
 Eu como cliente preciso que o gestor de recursos humanos tenha acesso aos relatórios de frequência e atestados de todos os funcionários para deferir a folha de pagamento.
-Natalia
+
+#6 Eu como cliente preciso de um sistema de gerenciamento de ponto eletrônico rápido, para reduzir o tempo gasto nesta tarefa.
+
+#18 Modificando a issues #6
+
+#7 Eu como cliente preciso que o sistema seja feito de forma totalmente eletrônica, para amenizar os impactos ambientais com o acúmulo de papéis.
+
+#8 Eu como cliente quero que o sistema tenha uma forma de validação, para que não ocorra fraudes, como falsos registros.
+
 Leticia
 Eu como gestor de recursos humanos necessito que o sistema me permita ter acesso aos atestados anexados pelos funcionários, para que possa aceitá-los ou recusá-los.
