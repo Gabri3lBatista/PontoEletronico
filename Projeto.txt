@@ -1,5 +1,9 @@
 Gabriel 	
-Eu como cliente preciso que o gestor de recursos humanos tenha acesso aos relatórios de frequência e atestados de todos os funcionários para deferir a folha de pagamento.
+
+
+#16 Eu como cliente preciso que o gestor de recursos humanos tenha acesso aos relatórios de frequência e atestados de todos os funcionários para deferir a folha de pagamento.
+#15 Eu como cliente preciso que o sistema tenha uma hierarquia de usuários para que filtre qual o tipo de usuário está utilizando o sistema no momento.
+#4 Eu como cliente preciso que o funcionário tenha acesso ao seu relatório individual para ter controle da sua carga horário e relatório mensal.
 
 
 #6 Eu como cliente preciso de um sistema de gerenciamento de ponto eletrônico rápido, para reduzir o tempo gasto nesta tarefa.
