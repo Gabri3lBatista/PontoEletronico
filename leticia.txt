@@ -1,3 +1,5 @@
 Eu como funcionário necessito que o sistema seja intuitivo e de fácil acesso para que eu consiga manuseá-lo de forma correta.#9
 
-corrigindo issues #9
+corrigindo issues #9 
+
+#9 modificado pelo gabs
