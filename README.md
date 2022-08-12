@@ -1,2 +1,2 @@
 # PontoEletronico
-Sistema de ponto eletrônico para empresa de marketing
+Sistema de ponto eletrônico para empresa de telemarketing
