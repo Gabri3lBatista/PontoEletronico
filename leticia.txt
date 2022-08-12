@@ -1,0 +1,3 @@
+Eu como funcionário necessito que o sistema seja intuitivo e de fácil acesso para que eu consiga manuseá-lo de forma correta.#9
+
+Eu como cliente, quero um sistema de controle de ponto eletrônico para minimizar os gastos com papel.#11
