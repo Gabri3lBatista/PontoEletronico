@@ -2,4 +2,4 @@ Gabriel
 Eu como cliente preciso que o gestor de recursos humanos tenha acesso aos relatórios de frequência e atestados de todos os funcionários para deferir a folha de pagamento.
 Natalia
 Leticia
-Venicius
+Eu como gestor de recursos humanos necessito que o sistema me permita ter acesso aos atestados anexados pelos funcionários, para que possa aceitá-los ou recusá-los.
