@@ -1,3 +1,3 @@
 #6 Eu como cliente preciso de um sistema de gerenciamento de ponto eletrônico rápido, para reduzir o tempo gasto nesta tarefa.
 
-#18 Modificando a issues #6
+#18 Modificando a issues #6modificação do victor
