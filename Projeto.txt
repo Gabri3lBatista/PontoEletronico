@@ -1,4 +1,6 @@
-Gabriel 	
+#2 Eu como funcionário quero ter o controle das minhas horas trabalhadas, para ter um registro e relatório dos dias e horas que trabalhei.
+#3 Eu como cliente quero um sistema de controle de ponto eletrônico, porque preciso de uma forma mais eficaz de gerenciar meus funcionários.
+#5 Eu como gestor de recursos humanos preciso de um sistema de ponto eletrônico para que os relatórios de frequência sejam gerados automaticamente, sem a necessidade de serem feitos manualmente.
 
 
 #16 Eu como cliente preciso que o gestor de recursos humanos tenha acesso aos relatórios de frequência e atestados de todos os funcionários para deferir a folha de pagamento.
